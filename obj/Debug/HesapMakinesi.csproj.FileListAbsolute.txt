@@ -1,0 +1,10 @@
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+T:\Visual studio Görsel programlama\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
